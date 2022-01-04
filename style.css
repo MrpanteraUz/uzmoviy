@@ -575,20 +575,19 @@ section{
 
 
 .container{
-    width: 510px;
+    width: 410px;
     height: 1260px;
-    margin: auto;
     margin-top: -75px;
     background-color: #161D25;
-    /* display: none; */
+    display: none;
 }
 .container  .menu_right1
 {
    margin-left: -15px;
 }
 
-.right_prim{
-    width: 90%;
+.right_prim1{
+    width: 410px;
     height: 390px;
     border: 1px solid #304156;
     background: #304156;
